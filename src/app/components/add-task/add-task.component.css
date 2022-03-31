@@ -1,0 +1,11 @@
+.customizeForm{
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.clsLabel{
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
